@@ -1,0 +1,80 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Production build
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Coverage directory
+coverage/
+
+# Jest snapshots
+*.snap
+
+# Miscellaneous
+*.lock
+*.bak
+*.tmp
+
+# React Native
+.expo/
+
+# Build artifacts
+dist/
+out/
+
+# Typescript build outputs
+*.tsbuildinfo
+
+# Yarn specific files
+.yarn-integrity
+.pnp.*
+
+# Parcel cache
+.cache/
+
+# Storybook files
+storybook-static/
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Temporary folders
+.tmp/
+.temp/
+
+# Package Manager Lock Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
